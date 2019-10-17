@@ -1,3 +1,5 @@
+## This app it's for improve my React skills
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
